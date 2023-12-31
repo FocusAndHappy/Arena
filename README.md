@@ -23,7 +23,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Board Status](https://dev.azure.com/FocusAndHappy/0a030616-91ac-4ee1-85a3-24ae63c465cf/e69fb973-02af-4842-9920-04424ffb490f/_apis/work/boardbadge/0e67aaa7-3d0a-4728-9939-760a91f0ec93)](https://dev.azure.com/FocusAndHappy/0a030616-91ac-4ee1-85a3-24ae63c465cf/_boards/board/t/e69fb973-02af-4842-9920-04424ffb490f/Stories/)
 
 
 
@@ -37,15 +37,15 @@
 <h3 align="center">Arena</h3>
 
   <p align="center">
-    This is gaming project to create a Pokémon inspired gym leader simulator.
+    This is gaming project to create a PokÃ©mon inspired gym leader simulator.
     <br />
-    <a href="https://github.com/Rinick7/Arena"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Rinick7/Arena"><strong>Explore the docs Â»</strong></a>
     <br />
     <br />
     <a href="https://github.com/Rinick7/Arena">View Demo</a>
-    ·
+    Â·
     <a href="https://github.com/Rinick7/Arena/issues">Report Bug</a>
-    ·
+    Â·
     <a href="https://github.com/Rinick7/Arena/issues">Request Feature</a>
   </p>
 </div>
@@ -86,7 +86,7 @@
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 This is mainly a training / for fun project to learn the basics in collaborative programming and software engineering. 
-The main objective is the development of a Pokémon arena simulator, while following clean coding principles and maintaining a 
+The main objective is the development of a PokÃ©mon arena simulator, while following clean coding principles and maintaining a 
 clean architecture. The arena simulator should be playable by one player and have general Single-Player game features. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
