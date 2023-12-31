@@ -23,7 +23,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![Board Status](https://dev.azure.com/FocusAndHappy/0a030616-91ac-4ee1-85a3-24ae63c465cf/e69fb973-02af-4842-9920-04424ffb490f/_apis/work/boardbadge/0e67aaa7-3d0a-4728-9939-760a91f0ec93)](https://dev.azure.com/FocusAndHappy/0a030616-91ac-4ee1-85a3-24ae63c465cf/_boards/board/t/e69fb973-02af-4842-9920-04424ffb490f/Stories/)
+[![Board Status][board-shield]][board-url]
 
 
 
@@ -226,6 +226,8 @@ Project Link: [https://github.com/Rinick7/Arena](https://github.com/Rinick7/Aren
 [issues-url]: https://github.com/Rinick7/Arena/issues
 [license-shield]: https://img.shields.io/github/license/Rinick7/Arena.svg?style=for-the-badge
 [license-url]: https://github.com/Rinick7/Arena/blob/master/LICENSE.txt
+[board-shield]: https://dev.azure.com/FocusAndHappy/0a030616-91ac-4ee1-85a3-24ae63c465cf/e69fb973-02af-4842-9920-04424ffb490f/_apis/work/boardbadge/0e67aaa7-3d0a-4728-9939-760a91f0ec93
+[board-url]: https://dev.azure.com/FocusAndHappy/0a030616-91ac-4ee1-85a3-24ae63c465cf/_boards/board/t/e69fb973-02af-4842-9920-04424ffb490f/Stories/
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
