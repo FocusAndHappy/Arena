@@ -19,6 +19,8 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![Board Status][board-shield]][board-url]
@@ -214,16 +216,16 @@ Project Link: [https://github.com/Rinick7/Arena](https://github.com/Rinick7/Aren
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Rinick7/Arena.svg?style=for-the-badge
-[contributors-url]: https://github.com/Rinick7/Arena/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Rinick7/Arena.svg?style=for-the-badge
-[forks-url]: https://github.com/Rinick7/Arena/network/members
-[stars-shield]: https://img.shields.io/github/stars/Rinick7/Arena.svg?style=for-the-badge
-[stars-url]: https://github.com/Rinick7/Arena/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Rinick7/Arena.svg?style=for-the-badge
-[issues-url]: https://github.com/Rinick7/Arena/issues
-[license-shield]: https://img.shields.io/github/license/Rinick7/Arena.svg?style=for-the-badge
-[license-url]: https://github.com/Rinick7/Arena/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/FocusAndHappy/Arena.svg?style=for-the-badge
+[contributors-url]: https://github.com/FocusAndHappy/Arena/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/FocusAndHappy/Arena.svg?style=for-the-badge
+[forks-url]: https://github.com/FocusAndHappy/Arena/network/members
+[stars-shield]: https://img.shields.io/github/stars/FocusAndHappy/Arena.svg?style=for-the-badge
+[stars-url]: https://github.com/FocusAndHappy/Arena/stargazers
+[issues-shield]: https://img.shields.io/github/issues/FocusAndHappy/Arena.svg?style=for-the-badge
+[issues-url]: https://github.com/FocusAndHappy/Arena/issues
+[license-shield]: https://img.shields.io/github/license/FocusAndHappy/Arena.svg?style=for-the-badge
+[license-url]: https://github.com/FocusAndHappy/Arena/blob/master/LICENSE.txt
 [board-shield]: https://dev.azure.com/FocusAndHappy/0a030616-91ac-4ee1-85a3-24ae63c465cf/e69fb973-02af-4842-9920-04424ffb490f/_apis/work/boardbadge/0e67aaa7-3d0a-4728-9939-760a91f0ec93
 [board-url]: https://dev.azure.com/FocusAndHappy/0a030616-91ac-4ee1-85a3-24ae63c465cf/_boards/board/t/e69fb973-02af-4842-9920-04424ffb490f/Stories/
 [product-screenshot]: images/screenshot.png
