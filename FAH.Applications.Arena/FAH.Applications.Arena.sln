@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FAH.Applications.Arena", "FAH.Applications.Arena.csproj", "{0C2E6AEC-8595-4CD2-A0E1-65A0E9F4DA7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FAH.Applications.Arena", "FAH.Applications.Arena.csproj", "{0C2E6AEC-8595-4CD2-A0E1-65A0E9F4DA7C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FAH.Arena.Domain.Battle", "..\FAH.Arena.Domain.Battle\FAH.Arena.Domain.Battle.csproj", "{03EEA4F4-AA24-4453-A538-248D50120413}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{0C2E6AEC-8595-4CD2-A0E1-65A0E9F4DA7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C2E6AEC-8595-4CD2-A0E1-65A0E9F4DA7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C2E6AEC-8595-4CD2-A0E1-65A0E9F4DA7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03EEA4F4-AA24-4453-A538-248D50120413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03EEA4F4-AA24-4453-A538-248D50120413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03EEA4F4-AA24-4453-A538-248D50120413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03EEA4F4-AA24-4453-A538-248D50120413}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
