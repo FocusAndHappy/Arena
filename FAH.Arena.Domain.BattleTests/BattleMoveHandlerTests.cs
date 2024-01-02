@@ -68,7 +68,7 @@ namespace FAH.Arena.Domain.Battle.Tests
 
         [Test()]
         public void HasPokemonFainted_SceptileAfterHit_False()
-        {
+        { 
             // Arrange
             var damage = battleMoveHandler.CalculateDamage(_levelSalamence, false, _powerDracoMeteor, _attackSalamence, _defenseSceptile, true, 1);
             var hitPoints = battleMoveHandler.GetHitPointsAfterDamageTaken(_hitPointsSceptile, damage);
