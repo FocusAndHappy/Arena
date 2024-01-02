@@ -4,7 +4,7 @@ namespace FAH.Arena.Domain.Battle
 {
     public class BattleMoveHandler : IBattleMoveHandler
     {
-        public int CalculateDamage(int level, bool critical, int power, int attack, int defense, bool stab, bool type1, bool type2)
+        public int CalculateDamage(int level, bool critical, int power, int attack, int defense, bool stab, float typeModifier)
         {
             throw new NotImplementedException();
         }
@@ -14,7 +14,7 @@ namespace FAH.Arena.Domain.Battle
             throw new NotImplementedException();
         }
 
-        public bool HasTargetFainted(int currentHitPoints)
+        public bool HasPokemonFainted(int hitPoints)
         {
             throw new NotImplementedException();
         }

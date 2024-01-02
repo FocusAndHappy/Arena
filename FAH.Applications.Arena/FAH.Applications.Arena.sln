@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FAH.Applications.Arena", "F
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FAH.Arena.Domain.Battle", "..\FAH.Arena.Domain.Battle\FAH.Arena.Domain.Battle.csproj", "{03EEA4F4-AA24-4453-A538-248D50120413}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FAH.Arena.Domain.BattleTests", "..\FAH.Arena.Domain.BattleTests\FAH.Arena.Domain.BattleTests.csproj", "{FB766B10-6AD6-47D6-9927-A2FF576637CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{03EEA4F4-AA24-4453-A538-248D50120413}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03EEA4F4-AA24-4453-A538-248D50120413}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03EEA4F4-AA24-4453-A538-248D50120413}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB766B10-6AD6-47D6-9927-A2FF576637CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB766B10-6AD6-47D6-9927-A2FF576637CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB766B10-6AD6-47D6-9927-A2FF576637CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB766B10-6AD6-47D6-9927-A2FF576637CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
