@@ -10,8 +10,8 @@
         /// <param name="power">power of the move</param>
         /// <param name="attack">attack of the attacking pokemon</param>
         /// <param name="defense">defense of the defending pokemon</param>
-        /// <param name="stab">has the move same type attack bonus/param>
-        /// <param name="typeModifier">type modifier for how effective the move is against the defending pokemon/param>
+        /// <param name="stab">has the move same type attack bonus</param>
+        /// <param name="typeModifier">type modifier for how effective the move is against the defending pokemon</param>
         /// <returns>calculated damage of the move on the defending pokemon</returns>
         public int CalculateDamage(int level, bool critical, int power, int attack, int defense, bool stab, float typeModifier);
 
